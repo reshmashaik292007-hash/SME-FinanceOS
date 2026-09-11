@@ -1,0 +1,6 @@
+[
+  {"id":"SUB-001","name":"CloudSuite Pro","amount":6999,"billingCycle":"monthly","lastUsed":"2025-05-14","status":"POSSIBLY_UNUSED","risk":"HIGH","description":"Cloud ERP suite — no login detected since May"},
+  {"id":"SUB-002","name":"AccountingPro","amount":2499,"billingCycle":"monthly","lastUsed":"2025-09-09","status":"ACTIVE","risk":"LOW","description":"GST filing and accounting"},
+  {"id":"SUB-003","name":"Canva Business","amount":1299,"billingCycle":"monthly","lastUsed":"2025-09-05","status":"ACTIVE","risk":"LOW","description":"Design and social media creatives"},
+  {"id":"SUB-004","name":"Google Workspace","amount":1200,"billingCycle":"monthly","lastUsed":"2025-09-10","status":"ACTIVE","risk":"LOW","description":"Email and collaboration tools"}
+]

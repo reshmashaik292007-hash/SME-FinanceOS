@@ -1,0 +1,22 @@
+[
+  {"id":"EXP-001","date":"2025-09-01","merchant":"City Property Partners","category":"Rent","amount":65000,"description":"Showroom & workshop rent","recurring":true,"risk":"LOW"},
+  {"id":"EXP-002","date":"2025-09-05","merchant":"Payroll Processing","category":"Payroll","amount":180000,"description":"Staff salaries — 9 employees","recurring":true,"risk":"LOW"},
+  {"id":"EXP-003","date":"2025-09-07","merchant":"CloudSuite Pro","category":"Software","amount":6999,"description":"Cloud ERP suite — possibly unused since Jun","recurring":true,"risk":"HIGH"},
+  {"id":"EXP-004","date":"2025-09-07","merchant":"AccountingPro","category":"Software","amount":2499,"description":"Accounting & GST software","recurring":true,"risk":"LOW"},
+  {"id":"EXP-005","date":"2025-09-07","merchant":"Canva Business","category":"Software","amount":1299,"description":"Design tools","recurring":true,"risk":"LOW"},
+  {"id":"EXP-006","date":"2025-09-07","merchant":"Google Workspace","category":"Software","amount":1200,"description":"Email & collaboration","recurring":true,"risk":"LOW"},
+  {"id":"EXP-007","date":"2025-09-08","merchant":"BESCOM","category":"Utilities","amount":8500,"description":"Electricity — workshop & showroom","recurring":true,"risk":"LOW"},
+  {"id":"EXP-008","date":"2025-09-02","merchant":"Woodland Timber Depot","category":"Supplies","amount":45000,"description":"Teak and sheesham wood stock","recurring":false,"risk":"LOW"},
+  {"id":"EXP-009","date":"2025-09-03","merchant":"Digital Square Agency","category":"Marketing","amount":22000,"description":"Instagram & Google Ads — Sep","recurring":false,"risk":"LOW"},
+  {"id":"EXP-010","date":"2025-09-04","merchant":"IndiaMart Premium","category":"Marketing","amount":13000,"description":"B2B marketplace listing renewal","recurring":false,"risk":"MEDIUM"},
+  {"id":"EXP-011","date":"2025-09-06","merchant":"Sharma Transport Co.","category":"Operations","amount":18000,"description":"Delivery & logistics — Sep","recurring":false,"risk":"LOW"},
+  {"id":"EXP-012","date":"2025-09-09","merchant":"Decor Hardware Mart","category":"Supplies","amount":12500,"description":"Fixtures, handles & fittings","recurring":false,"risk":"LOW"},
+  {"id":"EXP-013","date":"2025-09-10","merchant":"MakeMyTrip","category":"Travel","amount":8200,"description":"Client visit — Hyderabad","recurring":false,"risk":"LOW"},
+  {"id":"EXP-014","date":"2025-09-10","merchant":"CloudSuite Pro","category":"Software","amount":6999,"description":"DUPLICATE — appears charged twice this month","recurring":false,"risk":"HIGH"},
+  {"id":"EXP-015","date":"2025-08-07","merchant":"CloudSuite Pro","category":"Software","amount":4999,"description":"Previous month rate (price hike in Sep)","recurring":true,"risk":"HIGH"},
+  {"id":"EXP-016","date":"2025-08-07","merchant":"AccountingPro","category":"Software","amount":2499,"description":"Accounting software — Aug","recurring":true,"risk":"LOW"},
+  {"id":"EXP-017","date":"2025-08-01","merchant":"City Property Partners","category":"Rent","amount":65000,"description":"Showroom rent — Aug","recurring":true,"risk":"LOW"},
+  {"id":"EXP-018","date":"2025-08-05","merchant":"Payroll Processing","category":"Payroll","amount":180000,"description":"Staff salaries — Aug","recurring":true,"risk":"LOW"},
+  {"id":"EXP-019","date":"2025-08-15","merchant":"OfficeSupplies365","category":"Supplies","amount":4200,"description":"Stationery and packing materials","recurring":false,"risk":"LOW"},
+  {"id":"EXP-020","date":"2025-08-22","merchant":"Quick Repair Services","category":"Operations","amount":3800,"description":"Workshop machinery maintenance","recurring":false,"risk":"LOW"}
+]

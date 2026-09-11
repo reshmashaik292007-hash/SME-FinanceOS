@@ -1,0 +1,17 @@
+[
+  {"id":"INV-1042","customer":"Ravi Traders","amount":48000,"issueDate":"2025-08-15","dueDate":"2025-09-01","status":"OVERDUE","paidDate":null,"daysOverdue":23,"risk":"HIGH"},
+  {"id":"INV-1040","customer":"Metro Wholesale","amount":38000,"issueDate":"2025-08-20","dueDate":"2025-09-09","status":"OVERDUE","paidDate":null,"daysOverdue":15,"risk":"MEDIUM"},
+  {"id":"INV-1043","customer":"City Mart","amount":28000,"issueDate":"2025-08-25","dueDate":"2025-09-16","status":"OVERDUE","paidDate":null,"daysOverdue":8,"risk":"MEDIUM"},
+  {"id":"INV-1044","customer":"Prestige Homes","amount":22000,"issueDate":"2025-08-28","dueDate":"2025-09-19","status":"OVERDUE","paidDate":null,"daysOverdue":5,"risk":"LOW"},
+  {"id":"INV-1048","customer":"Sunrise Decor","amount":6000,"issueDate":"2025-09-01","dueDate":"2025-09-21","status":"OVERDUE","paidDate":null,"daysOverdue":3,"risk":"LOW"},
+  {"id":"INV-1045","customer":"Horizon Decor","amount":75000,"issueDate":"2025-09-01","dueDate":"2025-09-29","status":"PENDING","paidDate":null,"daysOverdue":0,"risk":"LOW"},
+  {"id":"INV-1046","customer":"Kumar Interiors","amount":120000,"issueDate":"2025-09-03","dueDate":"2025-10-03","status":"PENDING","paidDate":null,"daysOverdue":0,"risk":"LOW"},
+  {"id":"INV-1047","customer":"Star Furniture Hub","amount":85000,"issueDate":"2025-09-05","dueDate":"2025-10-05","status":"PENDING","paidDate":null,"daysOverdue":0,"risk":"LOW"},
+  {"id":"INV-1049","customer":"Prestige Homes","amount":45000,"issueDate":"2025-09-08","dueDate":"2025-10-08","status":"PENDING","paidDate":null,"daysOverdue":0,"risk":"LOW"},
+  {"id":"INV-1035","customer":"Ravi Traders","amount":28000,"issueDate":"2025-07-01","dueDate":"2025-07-20","status":"PAID","paidDate":"2025-08-01","paymentDelayDays":12,"daysOverdue":0,"risk":"HIGH"},
+  {"id":"INV-1036","customer":"Ravi Traders","amount":32000,"issueDate":"2025-07-15","dueDate":"2025-08-04","status":"PAID","paidDate":"2025-08-22","paymentDelayDays":18,"daysOverdue":0,"risk":"HIGH"},
+  {"id":"INV-1037","customer":"Metro Wholesale","amount":42000,"issueDate":"2025-07-10","dueDate":"2025-07-30","status":"PAID","paidDate":"2025-08-20","paymentDelayDays":21,"daysOverdue":0,"risk":"MEDIUM"},
+  {"id":"INV-1038","customer":"Metro Wholesale","amount":56000,"issueDate":"2025-08-01","dueDate":"2025-08-21","status":"PAID","paidDate":"2025-08-29","paymentDelayDays":8,"daysOverdue":0,"risk":"MEDIUM"},
+  {"id":"INV-1039","customer":"Kumar Interiors","amount":120000,"issueDate":"2025-08-05","dueDate":"2025-09-04","status":"PAID","paidDate":"2025-09-03","paymentDelayDays":0,"daysOverdue":0,"risk":"LOW"},
+  {"id":"INV-1041","customer":"Star Furniture Hub","amount":62000,"issueDate":"2025-08-10","dueDate":"2025-09-09","status":"PAID","paidDate":"2025-09-08","paymentDelayDays":0,"daysOverdue":0,"risk":"LOW"}
+]
